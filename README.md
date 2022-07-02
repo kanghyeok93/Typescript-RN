@@ -6,7 +6,7 @@ https://reactnative.dev/docs/typescript
 npx react-native init MyApp --template react-native-template-typescript
 ```
 
-### Version
+### Version List
 - React 18
 - ReactNative 0.69
 - Gradle 7.3.3
